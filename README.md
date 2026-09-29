@@ -2,9 +2,9 @@
 
 I am Opeyemi Emmanuel Ayejunikanwa
 
-I write Html Css and Javascript
+A DevOps and Cloud Engineer
 
-It's nice to get to Know you
+
 <!--
 **Saintemmy09/Saintemmy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
